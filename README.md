@@ -1,4 +1,5 @@
 # AluraPlay 
+
 ![image](https://github.com/DaviOliveira08/AluraPlay/assets/145383748/4fe671c6-427b-44f7-82ad-a43efd745ed8)
 
 ## Visão Geral
@@ -14,6 +15,7 @@ AluraPlay é um projeto web desenvolvido como parte dos cursos da Alura. O proje
 3. **Layout Responsivo:** Utiliza Flexbox para criar um layout responsivo que se adapta a diferentes dispositivos e tamanhos de tela.
 
 ## Uso de Flexbox para Layout Responsivo
+
 O AluraPlay utiliza o modelo de layout Flexbox para criar interfaces flexíveis e responsivas. Flexbox é um sistema de layout do CSS que permite o design de layouts complexos e alinhamentos de itens de forma mais eficiente e previsível do que os modelos de layout tradicionais.
 
 ## Como Testar
